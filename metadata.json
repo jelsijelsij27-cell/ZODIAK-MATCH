@@ -1,0 +1,6 @@
+{
+  "name": "Zodiac Match",
+  "description": "Aplikasi analisis dan eksplorasi kecocokan zodiak interaktif untuk hubungan cinta, pertemanan, dan keluarga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
